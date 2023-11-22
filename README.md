@@ -1,7 +1,5 @@
 # Esp32-1
-
 MEASURING WATER HEIGHT USING HCSR04 ULTRASONIC SENSOR BASED ON ESP32
-
 
 Documentation
 [https://youtu.be/weIpU0Ste30](https://youtu.be/4Vd0f8oJt-s?si=cv_L52SyW70U-anQ)https://youtu.be/4Vd0f8oJt-s?si=cv_L52SyW70U-anQ
